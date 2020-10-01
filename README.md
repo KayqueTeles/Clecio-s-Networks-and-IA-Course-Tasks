@@ -1,5 +1,10 @@
 # Clecio-s-Networks-and-IA-Course-Tasks
 
+UPDATE: 01/30
+- Added what was missing on the previous update
+- Working on TASK 4.
+- Must proceed to TASK 5.
+
 UPDATE: 21/09
 
 MISSING:
